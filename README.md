@@ -33,4 +33,4 @@ The program uses the local PostgreSQL server on port 5432. On my Windows setup, 
 The program runs each function in order to demonstrate that they work. It starts by displaying the three students, adds Alice Johnson, updates her email, and then deletes her record
 
 ## Demo Video
-
+[Watch my demonstration video: ]https://drive.google.com/file/d/1FvQXc1uJCY9IOSDDm4uPIKrnUQURoinn/view?usp=sharing
